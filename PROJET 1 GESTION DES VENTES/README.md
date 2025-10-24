@@ -10,7 +10,7 @@ L’analyse visait donc deux axes principaux : Le suivi global des ventes réali
 
 ## PAGE 1 Suivi des ventes
 
-![](/Capture%20d’écran%202025-10-16%20200642.png)
+![](/PROJET%201%20GESTION%20DES%20VENTES/PAGE%201.png)
 
 Cette prémière page met en évidence l'évolution du chiffre d'affaire réalisé au cours de la période  par régions et même par catégorie. pour arriver à ce resultat il est primordial de transformer la table principale en plusieurs autres tables afin d'établir des relations entre elles. pour faire ce type de graphique il faut maitriser quelques techniques dans Power BI notamment :
 
@@ -22,7 +22,7 @@ Cette prémière page met en évidence l'évolution du chiffre d'affaire réalis
 
 ## PAGE 2 : Suivi des ventes annulées
 
-![](/PAGE%202.png)
+![](/PROJET%201%20GESTION%20DES%20VENTES/PAGE%202.png)
 
 Etant donné que l'entreprise souhaite suivre également ses commandes annulées il etait également crucial de les représenter afin de comprendre les causes de ces annulations et de prendre des décisions correctives.
 
